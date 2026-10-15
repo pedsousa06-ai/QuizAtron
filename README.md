@@ -121,4 +121,4 @@ placar usam o total de perguntas da lista.
 
 ## 👤 Autor
 
-Feito por **_seu nome aqui_** para a disciplina de Programação para Dispositivos Mobile.
+Feito por **Pedro Sousa** para a disciplina de Programação para Dispositivos Mobile.
