@@ -35,15 +35,6 @@ desenham o estado, e toda a regra do jogo fica no ViewModel.
 - 🔄 **Jogar novamente** sem precisar digitar o nome outra vez
 - 📱 Sobrevive à **rotação da tela** sem perder o progresso
 
-## 📸 Telas
-
-| Início | Quiz | Resultado |
-|:---:|:---:|:---:|
-| _adicione a captura aqui_ | _adicione a captura aqui_ | _adicione a captura aqui_ |
-
-> Dica: salve os prints em `docs/screenshots/` e troque os textos acima por
-> `<img src="docs/screenshots/inicio.png" width="220">`.
-
 ## 🛠️ Tecnologias
 
 | Tecnologia | Uso |
